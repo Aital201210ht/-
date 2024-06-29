@@ -1,0 +1,35 @@
+header{
+    height: 1000px;
+    background-color: rgb(255, 194, 255);
+    text-align: rgb(28, 1, 54);
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://crss.uz/wp-content/uploads/2017/05/chess-02.jpg);
+    background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+.container{
+    background-color: chocolate;
+}
+.block1{
+    width: 100%;
+}
+.block2{
+    width: 100%;
+}
+
+.social img {
+    width: 100px;
+    padding-left: 10px;
+}
+
+.social {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
